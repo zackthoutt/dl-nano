@@ -1,2 +1,5 @@
-/fast-style-transfer
 .ipynb_checkpoints
+first-neural-network/assets
+first-neural-network/Bike-Sharing-Dataset
+.DS_Store
+submission.zip
