@@ -4,3 +4,5 @@ first-neural-network/Bike-Sharing-Dataset
 .DS_Store
 submission.zip
 sentiment-network/*.png
+intro-to-tflearn/*Solution.ipynb
+intro-to-tflearn/*Solutions.ipynb
