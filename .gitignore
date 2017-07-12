@@ -7,3 +7,10 @@ sentiment-network/*.png
 intro-to-tflearn/*Solution.ipynb
 intro-to-tflearn/*Solutions.ipynb
 intro-to-tflearn/mnist
+__pycache__
+image-classification/*.p
+image-classification/*.data-00000-of-00001
+image-classification/cifar-10-batches-py
+image-classification/*.tar.gz
+image-classification/*.index
+image-classification/*.meta
