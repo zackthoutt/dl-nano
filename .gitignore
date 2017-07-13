@@ -14,3 +14,8 @@ image-classification/cifar-10-batches-py
 image-classification/*.tar.gz
 image-classification/*.index
 image-classification/*.meta
+transfer-learning/codes
+transfer-learning/*.tar.gz
+transfer-learning/labels
+transfer-learning/flower_photos
+transfer-learning/checkpoints
