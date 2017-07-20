@@ -19,3 +19,5 @@ transfer-learning/*.tar.gz
 transfer-learning/labels
 transfer-learning/flower_photos
 transfer-learning/checkpoints
+sentiment-rnn/assets
+sentiment-rnn/checkpoints
