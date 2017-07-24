@@ -31,3 +31,6 @@ tv-script-generation/params.p
 tv-script-generation/preprocess.p
 tv-script-generation/data/
 tv-script-generation/save.data-00000-of-00001
+language-translation/data/
+language-translation/preprocess.p
+language-translation/checkpoints
