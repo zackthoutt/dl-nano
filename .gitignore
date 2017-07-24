@@ -19,3 +19,15 @@ transfer-learning/*.tar.gz
 transfer-learning/labels
 transfer-learning/flower_photos
 transfer-learning/checkpoints
+sentiment-rnn/assets
+sentiment-rnn/checkpoints
+.floydexpt
+.floydignore
+tv-script-generation/submission.zip
+tv-script-generation/save.meta
+tv-script-generation/save.index
+tv-script-generation/checkpoint
+tv-script-generation/params.p
+tv-script-generation/preprocess.p
+tv-script-generation/data/
+tv-script-generation/save.data-00000-of-00001
